@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-salary_values = [100, 54, 46, 80, 0, 80, 80, 80, 80, 80, 85, 95, 95, 73, 77, 100, 100]
+salary_values = [100, 54, 46, 80, 0, 80, 80, 80, 80, 80, 85, 95, 73, 77, 100, 100, 0]
 
 quantity_of_months = len(salary_values)
 
